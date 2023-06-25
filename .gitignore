@@ -1,0 +1,8 @@
+# ignore all disabled files
+*.d
+
+# Ignore index folder
+.index
+
+# ignore EMC
+EMC-F-v2-latest-1.19.4.jar
